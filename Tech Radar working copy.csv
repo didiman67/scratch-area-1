@@ -12,7 +12,7 @@ Team-Level T-Shirt sizing,assess,techniques,TRUE,<p>Brief description of what it
 Trunk Based Development,hold,techniques,TRUE,"<p>Merging code changes directly into master should be avoided, especially with distributed teams with mixed abilities. Instead, we should follow the GitFlow technique of merging changes from a feature branch, which should be short-lived and raising Pull Requests for review, before merging onto the Dev branch.</p> "
 React.js,adopt,programming-languages-and-frameworks,TRUE,<p>Good for consumer facing apps. Steep learning curve. For Internal applications it is probably overkill.  </p>
 Golang,adopt,programming-languages-and-frameworks,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases.</p>
-GoDog,assess,programming-languages-and-frameworks,TRUE,<p>Cucumber & tomato BDD framework for Golang.</p>
+GoDog,assess,programming-languages-and-frameworks,TRUE,<p>Cucumber salad & tomato BDD framework for Golang.</p>
 GitHib,adopt,platforms,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
 AWS - Code Build,trial,platforms,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
 Jenkins Platform,assess,platforms,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
