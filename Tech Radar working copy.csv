@@ -1,0 +1,18 @@
+﻿name,ring,quadrant,isNew,description
+AWS - Kinesis,adopt,tools,TRUE,<p>For right use case. Consider AWS SNS and AWS SQS for simpler use case.</p>
+AWS - S3,adopt,tools,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
+Miro,trial,tools,TRUE,<p>Tool for story planning. </p>
+GraphQL,trial,tools,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
+VS Code,assess,tools,TRUE,<p>Free and recommended IDE instead of Goland or InteliJ if possible.</p>
+AWS - Step Functions,hold,tools,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
+Event Driven,adopt,techniques,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
+Infrastructure As Code (IAC),adopt,techniques,TRUE,<p>Should always strive to do this as much as possible.</p>
+GitOps,assess,techniques,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases.</p>
+Team-Level T-Shirt sizing,assess,techniques,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
+Trunk Based Development,hold,techniques,TRUE,"<p>Merging code changes directly into master should be avoided, especially with distributed teams with mixed abilities. Instead, we should follow the GitFlow technique of merging changes from a feature branch, which should be short-lived and raising Pull Requests for review, before merging onto the Dev branch.</p> "
+React.js,adopt,programming-languages-and-frameworks,TRUE,<p>Good for consumer facing apps. Steep learning curve. For Internal applications it is probably overkill.  </p>
+Golang,adopt,programming-languages-and-frameworks,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases.</p>
+GoDog,assess,programming-languages-and-frameworks,TRUE,<p>Cucumber salad & tomato BDD framework for Golang.</p>
+GitHib,adopt,platforms,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
+AWS - Code Build,trial,platforms,TRUE,"<p>CodeBuild and CodeDeploy are AWS services used to build, test and deploy artefacts through an automated CI/CD pipeline. Some teams are currently trialling this and those teams should continue with caution. Teams not using CodeBuild or CodeDeploy should not embark on it as present. This is because CloudOps Platform team are building a standardised CI/CD capabilty using Jenkins to lower barrier of entry for teams to orchestrate their pipelines and be fully supported.</p> "
+Jenkins Platform,assess,platforms,TRUE,"<p>CloudOps Platform team are building a fully supported RI specific Jenkins framework for orchestrating CI/CD Pipelines. This will lower barrier of entry and provide a simpler and standardise support and visibilty mechanism.</p> "
