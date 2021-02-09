@@ -1,7 +1,7 @@
 ﻿name,ring,quadrant,isNew,description
 AWS - Kinesis,adopt,tools,TRUE,<p>For right use case. Consider AWS SNS and AWS SQS for simpler use case.</p>
 AWS - S3,adopt,tools,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
-Miro,trial,tools,TRUE,<p>Tool for story planning. </p>
+Miro,trial,tools,TRUE,<p>Tool for story planning,and PDPs and general collaborative working space for indivduals or teams. </p>
 GraphQL,trial,tools,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
 VS Code,assess,tools,TRUE,<p>Free and recommended IDE instead of Goland or InteliJ if possible.</p>
 AWS - Step Functions,hold,tools,TRUE,<p>Brief description of what it is. Brief description of why RI has made this assessment. Brief description of use cases and teams having success.</p>
